@@ -1,0 +1,7 @@
+junk/
+Output/*
+venv/
+__pycache__/
+Output_Backup/*
+db_config.ini
+sqltools_*.log
